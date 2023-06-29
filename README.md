@@ -6,7 +6,9 @@ z.B.
 
 # Header wird nicht in Array gespeichert!!
 English;Deutsch
+
 Word;Wort
+
 Fish;Fisch
 
 usw.
