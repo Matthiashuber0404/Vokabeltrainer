@@ -5,7 +5,7 @@ Dem Programm wird eine Datei (Dateiende Beliebig) im CSV-Format übergeben:
 z.B.
 
 # Header wird nicht in Array gespeichert!!
-English;Deutsch
+English;Deutsch #\n
 Word;Wort
 Fish;Fisch
 
